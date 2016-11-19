@@ -1,0 +1,35 @@
+body {
+    background:black ;
+}
+.luar{
+    height: 100% ;
+    width:  100% ;
+}
+.kotak{
+    height: 450px ;
+    width: 210px ; 
+    background: yellow ;
+    border: 1px solid ;
+    float: left ;
+    padding: 10px ;
+    margin: 10px ;
+    border-radius: 5px ;
+}
+h1{
+    font-size: 100px ;
+    background:white ;
+    font-style:oblique ;
+}
+img{
+    float: left ;
+    padding: 10px ;
+
+}
+select{
+    font-size: 30px ;
+    background:lightblue ;
+}
+input{
+    font-size: 15px ;
+    background: lightblue ;
+}
